@@ -30,7 +30,7 @@ You can search for repositories that are associated with a particular topic. For
 
 {% data reusables.repositories.navigate-to-repo %}{% if currentVersion ver_lt "enterprise-server@2.22" %}
 2. Under your repository description, click **Add topics**.
-  ![Add topics link on a repository's main page](/assets/images/help/repository/add-topics-link.png)
+  ![Add topics link on a repository's main page]abomsaall1987@gmail.com(/assets/images/help/repository/add-topics-link.png)
 3. Type the topic you want to add to your repository, then type a space.
   ![Form to enter topics](/assets/images/help/repository/add-topic-form.png)
 4. After you've finished adding topics, click **Done**.
